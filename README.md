@@ -1,5 +1,10 @@
 # CRUD Application (ReactJs, Node, MySQL)
 
+<p align="center">
+  <img src="client/src/assets/img/gameShop.PNG" width="150px">
+  <img src="client/src/assets/img/bd.PNG" width="770px">
+</p>
+
 ## Installation
 
 ### Client
